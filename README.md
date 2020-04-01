@@ -18,6 +18,7 @@
 ![AltText](https://github.com/tembang38/modul-0-2/blob/master/footer.php)
 
 # MODUL 2
+![AltText](https://github.com/tembang38/modul-0-2/blob/master/modul%202.JPG)
 ![AltText](https://github.com/tembang38/modul-0-2/blob/master/index%20%20anggota.php)
 ![AltText](https://github.com/tembang38/modul-0-2/blob/master/index.php)
 ![AltText](https://github.com/tembang38/modul-0-2/blob/master/index%20buku.php)
